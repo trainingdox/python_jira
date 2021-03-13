@@ -1,0 +1,4 @@
+idna
+openpyxl
+requests
+pywin32
